@@ -1,6 +1,6 @@
-![project25](https://github.com/user-attachments/assets/08b14faa-3e9a-4fb2-a794-2e82c35980ac) ![Screenshot 2024-09-16 at 13 57 39](https://github.com/user-attachments/assets/b0ea18a0-e6cd-4d69-b222-018de87b8fe9)
+## AnimeVault--NextJS
 
-## AnimeVault-NextJS-Webpage
+![project25](https://github.com/user-attachments/assets/08b14faa-3e9a-4fb2-a794-2e82c35980ac) ![Screenshot 2024-09-16 at 13 57 39](https://github.com/user-attachments/assets/b0ea18a0-e6cd-4d69-b222-018de87b8fe9)
 
 Anime-Vault is a NextJS 14 Server Side App with Server Actions, Infinite Scroll, and Framer-Motion Animations, which displays the lists of all anime from Server Side API. This project aims to define, understand, separate, and implement Server Side Actions and Clint Side Actions in NextJS and deploy on Vercel.
 
@@ -54,18 +54,3 @@ To get more idea about this project and the Server Side API link and source, vis
 ## To Create Next.js React App
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
